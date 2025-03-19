@@ -8,5 +8,5 @@ Convert .txt File encoding CP949 to UTF8 with Linux shell command
 Split big .txt file to small file by lines or count
 
 
-###
+### Concatenate_consecutive_newline_characters_into_one
 In txt file, Concatenate two or more consecutive newline characters into one
