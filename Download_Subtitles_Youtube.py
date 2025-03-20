@@ -18,5 +18,5 @@ subprocess.check_output("yt-dlp --write-subs
                         --sub-langs ko 
                         --sub-format vtt 
                         --output 'transcript' 
-                        'https://www.youtube.com/watch?v=9kPhqnqUYz4'"
+                        'Youtube URL'"
                         , shell=True)
